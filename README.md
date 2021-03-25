@@ -5,4 +5,4 @@ Implemented in C#.</br></br>
 
 
 UML Class Diagram:</br>
-<a href="https://ibb.co/tYnBjFp"><img src="https://i.ibb.co/tYnBjFp/class-diagram.jpg" alt="class-diagram" border="0"></a>
+<a href="https://ibb.co/tYnBjFp"><img src="https://i.ibb.co/tYnBjFp/class-diagram.jpg" alt="class-diagram" border="0" width="1000" height="1000" gh></a>
